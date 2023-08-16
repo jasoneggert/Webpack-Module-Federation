@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkapp2=self.webpackChunkapp2||[]).push([[413],{413:(e,t,n)=>{n.r(t),n.d(t,{default:()=>l});var a=n(471),p=n.n(a);const l=()=>p().createElement("div",{style:{margin:"10px",padding:"10px",textAlign:"center",backgroundColor:"cyan"}},p().createElement("h1",null,"Customer Custom Rectangle Imported from App 2 and actually in the dom (inspect to see)"))}}]);
